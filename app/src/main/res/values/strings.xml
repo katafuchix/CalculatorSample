@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculatorSample</string>
+    <string name="title1_name">Price map</string>
+    <string name="title2_name">Calculater Plus LiveData</string>
+</resources>
